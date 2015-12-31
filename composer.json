@@ -24,7 +24,7 @@
     "zendframework/zendframework": "2.*",
     "rwoverdijk/assetmanager": "1.*",
     "rcm/core": "1.*",
-    "rcm/message": "0.*"
+    "rcm/message": "1.*"
   },
   "autoload": {
     "psr-4": {
