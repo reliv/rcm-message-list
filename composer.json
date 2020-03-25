@@ -19,7 +19,7 @@
       "homepage": "https://github.com/reliv"
     }
   ],
-  "require": {
+  "require-commented-out": {
     "php": ">=5.5",
     "rcm/core": "^1.7.0",
     "rcm/core-js": "^1.0.0",
